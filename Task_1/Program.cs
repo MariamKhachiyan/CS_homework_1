@@ -2,8 +2,7 @@
 // a = 5; b = 7 -> max = 7
 // a = 2 b = 10 -> max = 10
 // a = -9 b = -3 -> max = -3
-// Введите 2 числа
-//если а>b то а макс, или наоборот
+
 
 Console.WriteLine("Enter first number: ");
 int number1 = Convert.ToInt32(Console.ReadLine());

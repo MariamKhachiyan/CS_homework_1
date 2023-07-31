@@ -3,9 +3,9 @@
 // 44 5 78 -> 78
 // 22 3 9 -> 22
 
-// вводим три числа
-// сравниваем
-// выводим максимальное
+//Enter numbers
+//Compair
+//infer the max
 
 Console.WriteLine("Enter first number: ");
 int number1 = Convert.ToInt32(Console.ReadLine());

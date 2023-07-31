@@ -3,7 +3,9 @@
 -3 -> нет
 7 -> нет
 
-Is number devide without reminder? */
+Is number devide without reminder? 
+Yes - Even
+No - Odd*/
 
 
 Console.WriteLine("Enter number: ");
